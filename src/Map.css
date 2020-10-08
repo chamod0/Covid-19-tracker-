@@ -1,7 +1,7 @@
   
 .map {
     height: 430px;
-    background-color: white;
+    background-color: #303030;
     padding: 1rem;
     border-radius: 20px;
     margin-top: 16px;
@@ -10,6 +10,14 @@
   .map .leaflet-container {
     height: 100%;
     border-radius: 12px;
+    
+   
+  }
+  .leaflet-container {
+    height: 100%;
+    border-radius: 12px;
+    
+   
   }
  .info-flag img {
   width: 100px;
@@ -24,6 +32,8 @@
 
 .info-container {
   width: 150px;
+  
+  
 }
 
 .info-flag {
@@ -31,6 +41,7 @@
   width: 100%;
   background-size: cover;
   border-radius: 8px;
+  
 }
 
 .info-confirmed,
@@ -38,4 +49,5 @@
 .info-deaths {
   font-size: 16px;
   margin-top: 5px;
+  
 }

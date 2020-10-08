@@ -77,7 +77,7 @@ function App() {
     <div className="app">
       <div className="app__left">
       <div className = "app__header">
-        <h1>Covid 19 Tracker</h1>
+      <h1><img  SRC="./LOGO.png" /> Covid 19 Tracker</h1>
         <FormControl className="app__dropdown">
           <Select className="select" variant = "outlined" onChange={onCountryChange} value={country} >
 

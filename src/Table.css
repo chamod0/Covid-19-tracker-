@@ -1,6 +1,7 @@
 .table{
 margin-top: 20px;
-overflow: scroll;
+overflow: auto;
+
 height: 400px;
 color: rgb(255, 255, 255);
 background-color: #303030;
