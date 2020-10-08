@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "covid-19-tracker-a9704"
+    "defalt": "covid19tracker-worldwideinfo",
+    "default": "covid19tracker-worldwideinfo"
   }
 }
